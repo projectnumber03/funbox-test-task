@@ -1,5 +1,5 @@
 # Квалификационное задание для разработчиков Java/Kotlin
-## Introduction
+## introduction
 web-приложение для простого учета посещенных (неважно, как, кем и когда) ссылок
 ## software requirements
 + JRE 11
