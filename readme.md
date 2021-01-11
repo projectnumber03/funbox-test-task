@@ -18,5 +18,5 @@ gradle clean bootJar
 ```
 ## run application
 ```bash
-java -jar build/libs/test-task-1.0.jar
+java -jar build/libs/funbox-test-task-1.0.jar
 ```
