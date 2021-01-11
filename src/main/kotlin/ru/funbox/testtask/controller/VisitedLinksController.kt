@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RestController
 import ru.funbox.testtask.entity.VisitedLinksWrapper
 import ru.funbox.testtask.service.VisitedLinksService
-import java.util.*
 
 @RestController
 class VisitedLinksController(val visitedLinksService: VisitedLinksService) {
